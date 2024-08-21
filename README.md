@@ -50,7 +50,3 @@ Foodeli is a comprehensive food ordering platform designed to provide users with
    http://localhost:3000
    ```
 
-## 📦 Deployment
-
-- This project is deployed on (Add your deployment platform). You can access the live version [here](https://foodeli-frontend.onrender.com).
-- 
