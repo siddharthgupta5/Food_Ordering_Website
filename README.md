@@ -17,7 +17,7 @@ It is a comprehensive food ordering platform designed to provide users with a se
 - **Database:** MongoDB
 
 
-## 🛠 Installation and Setup
+##  Installation and Setup
 
 1. **Clone the repository:**
    ```bash
@@ -55,7 +55,7 @@ It is a comprehensive food ordering platform designed to provide users with a se
    npm run dev
    ```
 
-6. **Open your browser from the terminal and visit:**
+6. **Click and Open your browser from the terminal and visit:**
    ```
    http://localhost:5173
    ```
