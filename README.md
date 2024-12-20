@@ -1,4 +1,4 @@
-# Food Delivery Website
+# Food Ordering Website
 
 It is a comprehensive food ordering platform designed to provide users with a seamless experience from browsing to payment. Built with the MERN stack (MongoDB, Express, React, Node.js). This Food delivery website features user authentication, shopping cart functionality, and order status updates.
 
