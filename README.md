@@ -8,6 +8,7 @@ It is a comprehensive food ordering platform designed to provide users with a se
 - **User Authentication:** Secure login and registration system.
 - **Shopping Cart:** Add food items to the cart and place orders.
 - **Order Management:** Admin panel for tracking and updating order statuses.
+- **Stripe Payment Gateway:** Integrated for online payments.
 - **Responsive Design:** Optimized for both desktop and mobile users.
 
 ##  Tech Stack
@@ -15,6 +16,7 @@ It is a comprehensive food ordering platform designed to provide users with a se
 - **Frontend:** React JS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
+- **Payment Integration:** Stripe
 
 
 ##  Installation and Setup
