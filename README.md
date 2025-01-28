@@ -21,7 +21,7 @@ It is a comprehensive food ordering platform designed to provide users with a se
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Foodeli.git
+   git clone https://github.com/siddharthgupta5/Food_Ordering_Website.git
    ```
 2. **Navigate to the project directory:**
    ```bash
